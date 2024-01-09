@@ -128,6 +128,38 @@ body{
     color: red;
 }
 
+.portfoilo{
+    padding: 21px 75px;
+}
+.sub-tittle-2{
+    font-size: 14px;
+    color: rgb(208, 26, 26);
+}
+.TITTLE-2{
+    font-family: 'Nunito Sans', sans-serif;
+    color: #121212;
+}
+.paragraph-1{
+    font-size: 13px;
+    color: #121212;
+}
+.images{
+   display: flex;
+   background-color: wheat;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+}
+.img-1{
+    height: 40%;
+    width: 30%;
+    border: 2px solid #121212;
+    border-radius: 13px;
+    box-shadow: 4px 7px 7px 0px;
+    cursor: pointer;
+    margin: 15px;
+}
+
 
 
 
