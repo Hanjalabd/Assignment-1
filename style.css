@@ -55,6 +55,9 @@ body{
     font-size: 10px;
     color: brown;
 }
+.holiday title{
+    color: black;
+}
 .sub-title{
     font-size: 15px;
     color: black;
@@ -63,4 +66,50 @@ body{
     height: 30%;
     width: 30%;
 }
+.text-primary{
+    color: #FD6E0A;
+}
+.midnight-party{
+    background-image: linear-gradient( to right bottom, rgba(0, 0, 0, 0.959), rgba(127, 144, 161, 0.466)), 
+    url(images/Vectorrr.png);
+    align-items: center;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 50px auto;
+ }
+
+.banner{
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.paragraph{
+    color: white;
+    font-size: 14px;
+}
+.banner-title{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.banner-content{ 
+    max-width: 500px;
+}
+.btn-primary{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    border: 0;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 8px 15px;
+}
+
+
+
 
