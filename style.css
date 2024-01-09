@@ -160,6 +160,35 @@ body{
     margin: 15px;
 }
 
+.Mail{
+    text-align: center;
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 50px auto;
+    background-color: antiquewhite;
+}
+form input{
+    padding: 5px 10px;
+    border: none;
+    outline: none;
+}
+form button{
+    background: red;
+    border: none;
+    padding: 5px 10px;
+    outline: none;
+    color: #fff;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.main-tittle{
+    color: #121212;
+    font-size: 30px;
+}
+.paragraph-2{
+    font-size: 12px;
+}
+
 
 
 
