@@ -189,9 +189,19 @@ form button{
     font-size: 12px;
 }
 
-
-
-
+.last-finishing{
+    display: flex;
+    background-color: #121212;
+    gap: 100px;
+    padding: 130px 230px;
+    width: 1215px;
+    margin: 0 auto;
+}
+.nav-title{
+    color: white;
+    font-size: 12px;
+    font-weight: 800;
+}
 
 
 
